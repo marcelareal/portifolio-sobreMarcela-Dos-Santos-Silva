@@ -1,4 +1,5 @@
 h1 {
+
     text-align: center;
     border: 1px solid black;
     
@@ -18,36 +19,85 @@ ul {
 
 img {
     width: 200px;
-    margin: 20px;
-
+    margin: 20px;   
 }
+
+
+
  .Habilidades{
-    color:darkblue;
+     color:black;
     font-size: 1em;
     border: 1px solid gray;
+    width: 450px;
+    height: 250px; 
+    
  }
  .Formacoes{
-    color: darkblue;
+    color:black;
     font-size:1em ;
     border: 1px solid gray ;
+    width: 450px;
+    height: 250px;
  }
  .Estudosfuturos{
-    color:darkblue ;
+    color:black ;
     font-size: 1em;
     border:1px solid gray ;
+    width:450px;
+    height:250px;
  }
  .TempoLivre{
-    color: darkblue;
+    color:black;
     font-size: 1em;
     border: 1px solid gray ;
+    width:450px;
+    height:250px;
  }
  
  h1{
-    font-size: 3em;
+    font-size: 30px;
  }
- li {
-    font-size: 1em;
+ 
+ .sobre-Mim {
+    font-size: 30px;
+    align-self: center;
+    text-align: center;
+    width: 90%;
+}
 
- }
+    
+
+
+h3{
+   font-size: 30px;
+}
+
+ 
+
+
+ 
+body
+{
+   color: gray;
+   background-color:navajowhite;
+   text-align: center;
+}
+
+.sobre-Mim{
+   color: darkblue;
+   font-size: 2em;
+   
+}
+
+.container2{
+   display: flex;
+}
+
+
+
+
+
+
+
 
  
